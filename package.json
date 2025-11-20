@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/three": "^0.171.0",
+    "vite": "^7.2.2"
+  },
+  "name": "121-final-project",
+  "description": "# Devlog Entry - 14 November 2025 ## Introducing the team Aegis Michael: Design Lead Julia Manou: Tools Lead + Testing Lead Sophie DeGeorge: Engine Lead",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enable3d": "^0.26.1",
+    "three": "^0.171.0"
+  }
+}
